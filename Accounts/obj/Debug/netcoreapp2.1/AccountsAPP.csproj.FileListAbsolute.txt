@@ -1,0 +1,14 @@
+D:\C# Training\Accounts\Accounts\bin\Debug\netcoreapp2.1\AccountsAPP.deps.json
+D:\C# Training\Accounts\Accounts\bin\Debug\netcoreapp2.1\AccountsAPP.runtimeconfig.json
+D:\C# Training\Accounts\Accounts\bin\Debug\netcoreapp2.1\AccountsAPP.runtimeconfig.dev.json
+D:\C# Training\Accounts\Accounts\bin\Debug\netcoreapp2.1\AccountsAPP.dll
+D:\C# Training\Accounts\Accounts\bin\Debug\netcoreapp2.1\AccountsAPP.pdb
+D:\C# Training\Accounts\Accounts\bin\Debug\netcoreapp2.1\Reference.dll
+D:\C# Training\Accounts\Accounts\bin\Debug\netcoreapp2.1\Reference.pdb
+D:\C# Training\Accounts\Accounts\obj\Debug\netcoreapp2.1\AccountsAPP.csprojAssemblyReference.cache
+D:\C# Training\Accounts\Accounts\obj\Debug\netcoreapp2.1\AccountsAPP.csproj.CoreCompileInputs.cache
+D:\C# Training\Accounts\Accounts\obj\Debug\netcoreapp2.1\AccountsAPP.AssemblyInfoInputs.cache
+D:\C# Training\Accounts\Accounts\obj\Debug\netcoreapp2.1\AccountsAPP.AssemblyInfo.cs
+D:\C# Training\Accounts\Accounts\obj\Debug\netcoreapp2.1\AccountsAPP.csproj.CopyComplete
+D:\C# Training\Accounts\Accounts\obj\Debug\netcoreapp2.1\AccountsAPP.dll
+D:\C# Training\Accounts\Accounts\obj\Debug\netcoreapp2.1\AccountsAPP.pdb

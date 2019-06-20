@@ -1,0 +1,9 @@
+D:\C# Training\Accounts\Reference\bin\Debug\netstandard2.0\Reference.deps.json
+D:\C# Training\Accounts\Reference\bin\Debug\netstandard2.0\Reference.dll
+D:\C# Training\Accounts\Reference\bin\Debug\netstandard2.0\Reference.pdb
+D:\C# Training\Accounts\Reference\obj\Debug\netstandard2.0\Reference.csprojAssemblyReference.cache
+D:\C# Training\Accounts\Reference\obj\Debug\netstandard2.0\Reference.csproj.CoreCompileInputs.cache
+D:\C# Training\Accounts\Reference\obj\Debug\netstandard2.0\Reference.AssemblyInfoInputs.cache
+D:\C# Training\Accounts\Reference\obj\Debug\netstandard2.0\Reference.AssemblyInfo.cs
+D:\C# Training\Accounts\Reference\obj\Debug\netstandard2.0\Reference.dll
+D:\C# Training\Accounts\Reference\obj\Debug\netstandard2.0\Reference.pdb
